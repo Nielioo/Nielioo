@@ -3,7 +3,7 @@ name: Generate README.md File
 on:
   workflow_dispatch:
   schedule:
-    - cron: '50 19 * * *'
+    - cron: '0 20 * * *'
 
 jobs:
   build:

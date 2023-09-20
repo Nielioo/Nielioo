@@ -3,7 +3,7 @@ name: Generate README.md File
 on:
   workflow_dispatch:
   schedule:
-    - cron: '20 20 * * *'
+    - cron: '25 20 * * *'
 
 jobs:
   build:
@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        python-version: [3.7]
+        python-version: ['3.10']
 
     steps:
       - uses: actions/checkout@v3

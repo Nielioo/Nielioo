@@ -39,5 +39,5 @@ jobs:
           echo "${{ secrets.README_UPDATER_TOKEN }}" | gh auth login --with-token -
           gh pr create --head readme_updater --fill
           gh pr review --comment -b "Looks good to me!"
-          gh pr review --comment -b "Let's get this merged!"
+          gh pr review --comment -b "Let's get this merged!!"
           gh pr merge -d -m

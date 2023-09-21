@@ -40,3 +40,4 @@ jobs:
           gh pr create --head readme_updater --fill
           gh pr review ${{ github.event.pull_request.number }} --comment -b "Looks good to me!"
           gh pr merge -d -m
+          

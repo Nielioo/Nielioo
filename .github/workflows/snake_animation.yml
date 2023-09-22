@@ -1,0 +1,68 @@
+name: Generate snake animation based on contributions graph
+on:
+  # allows to manually run the job at any time
+  workflow_dispatch:
+  
+  # run on every push on the 'main' branch
+  push:
+    branches: [main]
+  
+  # run at 00:00 on every day
+  # schedule:
+  #   - cron: "0 0 * * *"
+
+jobs:
+  generate:
+    name: Generate Animation
+    runs-on: ubuntu-latest
+    steps:
+      # generates snake animation from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
+      - name: Generate snake animation
+        uses: Platane/snk@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/grid-snake.svg
+            dist/grid-snake-dark.svg?palette=github-dark
+            dist/grid-snake-light.svg?palette=github-light
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
+      # push the generated svg animation of <build_dir> to a branch
+      # the generated svg animation will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file>
+      - name: push github-contribution-grid-snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: snake-svg-animation-output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # upload the generated svg animation to the 'dist' folder on github pages
+      # - name: Upload Pages artifact
+      #   uses: actions/upload-pages-artifact@v2.0.0
+      #   with:
+      #     path: dist
+
+  # deploy:
+  #   name: Deploy to Pages
+  #   if: github.event_name != 'pull_request'
+  #   needs: generate
+  #   runs-on: ubuntu-latest
+  #   permissions:
+  #     contents: read
+  #     pages: write
+  #     id-token: write
+  #   environment:
+  #     name: github-pages
+  #     url: ${{ steps.deployment.outputs.page_url }}
+  #   concurrency:
+  #     group: pages
+  #     cancel-in-progress: false
+  #   steps:
+  #     - name: Configure Pages
+  #       uses: actions/configure-pages@v3.0.6
+
+  #     - name: Deploy to Pages
+  #       id: deployment
+  #       uses: actions/deploy-pages@v2.0.4

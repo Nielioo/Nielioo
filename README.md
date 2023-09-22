@@ -10,9 +10,12 @@
 ![guitar](https://github.com/Nielioo/Nielioo/blob/main/Assets/XinyanGuitar.gif)
 
 ![Top Langs](https://custom-github-readme-stats.vercel.app/api/top-langs/?username=nielioo&layout=compact&theme=tokyonight&bg_color=00000000)
-![Daniel Aprillio's GitHub stats](https://custom-github-readme-stats.vercel.app/api?username=nielioo&show_icons=true&theme=tokyonight&bg_color=00000000&hide_title=true)
+[![Daniel Aprillio's GitHub stats-Dark](https://custom-github-readme-stats.vercel.app/api?username=nielioo&show_icons=true&theme=tokyonight&bg_color=00000000&hide_title=true#gh-dark-mode-only)](https://github.com/nielioo/nielioo#gh-dark-mode-only)
+[![Daniel Aprillio's GitHub stats-Light](https://custom-github-readme-stats.vercel.app/api?username=nielioo&show_icons=true&theme=cobalt2&bg_color=00000000&hide_title=true#gh-light-mode-only)](https://github.com/nielioo/nielioo#gh-light-mode-only)
 
 </div>
+
+Updated: 22/09/2023 04:47:34
 
 <!--
 **Nielioo/Nielioo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,5 +31,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Updated: 22/09/2023 04:47:34

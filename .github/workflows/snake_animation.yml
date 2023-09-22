@@ -8,8 +8,8 @@ on:
     branches: [main]
   
   # run at 00:00 on every day
-  # schedule:
-  #   - cron: "0 0 * * *"
+  schedule:
+    - cron: "0 0 * * *"
 
 jobs:
   generate:

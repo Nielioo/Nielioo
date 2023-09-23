@@ -1,12 +1,11 @@
 
 <div align="center">
-  
-![cheers](https://github.com/Nielioo/Nielioo/blob/main/Assets/XinyanCheer.gif)
-![guitar](https://github.com/Nielioo/Nielioo/blob/main/Assets/XinyanGuitar.gif)
-![cheers](https://github.com/Nielioo/Nielioo/blob/main/Assets/XinyanCheer.gif)
-![guitar](https://github.com/Nielioo/Nielioo/blob/main/Assets/XinyanGuitar.gif)
-![cheers](https://github.com/Nielioo/Nielioo/blob/main/Assets/XinyanCheer.gif)
-![guitar](https://github.com/Nielioo/Nielioo/blob/main/Assets/XinyanGuitar.gif)
+  <img src="https://github.com/Nielioo/Nielioo/blob/main/Assets/Raw/XinyanCheer.gif" width="12%"/>
+  <img src="https://github.com/Nielioo/Nielioo/blob/main/Assets/Raw/XinyanGuitar.gif" width="12%"/>
+  <img src="https://github.com/Nielioo/Nielioo/blob/main/Assets/Raw/XinyanCheer.gif" width="12%"/>
+  <img src="https://github.com/Nielioo/Nielioo/blob/main/Assets/Raw/XinyanGuitar.gif" width="12%"/>
+  <img src="https://github.com/Nielioo/Nielioo/blob/main/Assets/Raw/XinyanCheer.gif" width="12%"/>
+  <img src="https://github.com/Nielioo/Nielioo/blob/main/Assets/Raw/XinyanGuitar.gif" width="12%"/>
 
 [![Top Langs-Dark](https://custom-github-readme-stats.vercel.app/api/top-langs/?username=nielioo&layout=compact&theme=slateorange&bg_color=00000000&hide=jupyter%20notebook#gh-dark-mode-only)](https://github.com/Nielioo#gh-dark-mode-only)
 [![Top Langs-Light](https://custom-github-readme-stats.vercel.app/api/top-langs/?username=nielioo&layout=compact&theme=buefy&bg_color=00000000&hide=jupyter%20notebook#gh-light-mode-only)](https://github.com/Nielioo#gh-light-mode-only)

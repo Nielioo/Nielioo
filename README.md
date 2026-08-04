@@ -1,16 +1,15 @@
 
 <div align="center">
   <!-- https://play.pokemonshowdown.com/sprites/ani/ -->
-  <!-- <img src="https://github.com/Nielioo/Nielioo/blob/main/assets/pokemon/zorua.gif"/> -->
-  <img src="https://play.pokemonshowdown.com/sprites/ani/leafeon.gif"/>
-  <img src="https://play.pokemonshowdown.com/sprites/ani/jolteon.gif"/>
-  <img src="https://play.pokemonshowdown.com/sprites/ani/espeon.gif"/>
-  <img src="https://play.pokemonshowdown.com/sprites/ani/flareon.gif"/>
-  <img src="https://play.pokemonshowdown.com/sprites/ani/eevee.gif"/>
-  <img src="https://play.pokemonshowdown.com/sprites/ani/glaceon.gif"/>
-  <img src="https://play.pokemonshowdown.com/sprites/ani/sylveon.gif"/>
-  <img src="https://play.pokemonshowdown.com/sprites/ani/umbreon.gif"/>
-  <img src="https://play.pokemonshowdown.com/sprites/ani/vaporeon.gif"/>
+  <img src="https://github.com/Nielioo/Nielioo/blob/main/assets/pokemon/leafeon.gif"/>
+  <img src="https://github.com/Nielioo/Nielioo/blob/main/assets/pokemon/jolteon.gif"/>
+  <img src="https://github.com/Nielioo/Nielioo/blob/main/assets/pokemon/espeon.gif"/>
+  <img src="https://github.com/Nielioo/Nielioo/blob/main/assets/pokemon/flareon.gif"/>
+  <img src="https://github.com/Nielioo/Nielioo/blob/main/assets/pokemon/eevee.gif"/>
+  <img src="https://github.com/Nielioo/Nielioo/blob/main/assets/pokemon/glaceon.gif"/>
+  <img src="https://github.com/Nielioo/Nielioo/blob/main/assets/pokemon/sylveon.gif"/>
+  <img src="https://github.com/Nielioo/Nielioo/blob/main/assets/pokemon/umbreon.gif"/>
+  <img src="https://github.com/Nielioo/Nielioo/blob/main/assets/pokemon/vaporeon.gif"/>
 
 # Hi! It's me [Nielioo](https://www.linkedin.com/in/daniel-aprillio/), nice to meet ya!
 
@@ -25,16 +24,16 @@
 [![GitHub stats-Dark](https://custom-github-readme-stats.vercel.app/api?username=nielioo&show_icons=true&theme=slateorange&bg_color=00000000&hide_title=true#gh-dark-mode-only)](https://github.com/Nielioo#gh-dark-mode-only)
 [![GitHub stats-Light](https://custom-github-readme-stats.vercel.app/api?username=nielioo&show_icons=true&theme=buefy&bg_color=00000000&hide_title=true#gh-light-mode-only)](https://github.com/Nielioo#gh-light-mode-only)
 
-  <img src="https://play.pokemonshowdown.com/sprites/ani/zorua.gif"/>
-  <img src="https://play.pokemonshowdown.com/sprites/ani/riolu.gif"/>
-  <img src="https://play.pokemonshowdown.com/sprites/ani/mew.gif"/>
-  <img src="https://play.pokemonshowdown.com/sprites/ani/pichu.gif"/>
-  <img src="https://play.pokemonshowdown.com/sprites/ani/shinx.gif"/>
-  <img src="https://play.pokemonshowdown.com/sprites/ani/ralts.gif"/>
-  <img src="https://play.pokemonshowdown.com/sprites/ani/togepi.gif"/>
-  <img src="https://play.pokemonshowdown.com/sprites/ani/rockruff.gif"/>
-  <img src="https://play.pokemonshowdown.com/sprites/ani/mimikyu.gif"/>
-  <img src="https://play.pokemonshowdown.com/sprites/ani/zorua-hisui.gif"/>
+  <img src="https://github.com/Nielioo/Nielioo/blob/main/assets/pokemon/zorua.gif"/>
+  <img src="https://github.com/Nielioo/Nielioo/blob/main/assets/pokemon/riolu.gif"/>
+  <img src="https://github.com/Nielioo/Nielioo/blob/main/assets/pokemon/mew.gif"/>
+  <img src="https://github.com/Nielioo/Nielioo/blob/main/assets/pokemon/pichu.gif"/>
+  <img src="https://github.com/Nielioo/Nielioo/blob/main/assets/pokemon/igglybuff.gif"/>
+  <img src="https://github.com/Nielioo/Nielioo/blob/main/assets/pokemon/ralts.gif"/>
+  <img src="https://github.com/Nielioo/Nielioo/blob/main/assets/pokemon/togepi.gif"/>
+  <img src="https://github.com/Nielioo/Nielioo/blob/main/assets/pokemon/rockruff.gif"/>
+  <img src="https://github.com/Nielioo/Nielioo/blob/main/assets/pokemon/mimikyu.gif"/>
+  <img src="https://github.com/Nielioo/Nielioo/blob/main/assets/pokemon/zorua-hisui.gif"/>
 
 </div>
 <br/>

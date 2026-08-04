@@ -25,13 +25,13 @@
 [![GitHub stats-Light](https://custom-github-readme-stats.vercel.app/api?username=nielioo&show_icons=true&theme=buefy&bg_color=00000000&hide_title=true#gh-light-mode-only)](https://github.com/Nielioo#gh-light-mode-only)
 
   <img src="https://github.com/Nielioo/Nielioo/blob/main/assets/pokemon/zorua.gif"/>
-  <img src="https://github.com/Nielioo/Nielioo/blob/main/assets/pokemon/riolu.gif"/>
-  <img src="https://github.com/Nielioo/Nielioo/blob/main/assets/pokemon/mew.gif"/>
   <img src="https://github.com/Nielioo/Nielioo/blob/main/assets/pokemon/pichu.gif"/>
   <img src="https://github.com/Nielioo/Nielioo/blob/main/assets/pokemon/igglybuff.gif"/>
-  <img src="https://github.com/Nielioo/Nielioo/blob/main/assets/pokemon/ralts.gif"/>
   <img src="https://github.com/Nielioo/Nielioo/blob/main/assets/pokemon/togepi.gif"/>
+  <img src="https://github.com/Nielioo/Nielioo/blob/main/assets/pokemon/riolu.gif"/>
   <img src="https://github.com/Nielioo/Nielioo/blob/main/assets/pokemon/rockruff.gif"/>
+  <img src="https://github.com/Nielioo/Nielioo/blob/main/assets/pokemon/ralts.gif"/>
+  <img src="https://github.com/Nielioo/Nielioo/blob/main/assets/pokemon/mew.gif"/>
   <img src="https://github.com/Nielioo/Nielioo/blob/main/assets/pokemon/mimikyu.gif"/>
   <img src="https://github.com/Nielioo/Nielioo/blob/main/assets/pokemon/zorua-hisui.gif"/>
 

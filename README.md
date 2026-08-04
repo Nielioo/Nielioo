@@ -13,7 +13,7 @@
 [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/551736880014819329)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Nielioo)
 [![Line Badge](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white)](https://line.me/ti/p/~daniel_aprillio)
-[![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/Nielio?sub_confirmation=1)
+<!-- [![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/Nielio?sub_confirmation=1) -->
 
 [![Top Langs-Dark](https://custom-github-readme-stats.vercel.app/api/top-langs/?username=nielioo&layout=compact&theme=slateorange&bg_color=00000000&hide=jupyter%20notebook#gh-dark-mode-only)](https://github.com/Nielioo#gh-dark-mode-only)
 [![Top Langs-Light](https://custom-github-readme-stats.vercel.app/api/top-langs/?username=nielioo&layout=compact&theme=buefy&bg_color=00000000&hide=jupyter%20notebook#gh-light-mode-only)](https://github.com/Nielioo#gh-light-mode-only)

@@ -3,7 +3,6 @@
   <!-- https://play.pokemonshowdown.com/sprites/ani/ -->
   <!-- <img src="https://github.com/Nielioo/Nielioo/blob/main/assets/pokemon/zorua.gif"/> -->
   <img src="https://play.pokemonshowdown.com/sprites/ani/zorua.gif"/>
-  <img src="https://play.pokemonshowdown.com/sprites/ani/zorua-hisui.gif"/>
   <img src="https://play.pokemonshowdown.com/sprites/ani/riolu.gif"/>
   <img src="https://play.pokemonshowdown.com/sprites/ani/mew.gif"/>
   <img src="https://play.pokemonshowdown.com/sprites/ani/eevee.gif"/>
@@ -13,6 +12,7 @@
   <img src="https://play.pokemonshowdown.com/sprites/ani/togepi.gif"/>
   <img src="https://play.pokemonshowdown.com/sprites/ani/rockruff.gif"/>
   <img src="https://play.pokemonshowdown.com/sprites/ani/mimikyu.gif"/>
+  <img src="https://play.pokemonshowdown.com/sprites/ani/zorua-hisui.gif"/>
 
 # Hi! It's me [Nielioo](https://www.linkedin.com/in/daniel-aprillio/), nice to meet ya!
 

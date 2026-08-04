@@ -14,18 +14,6 @@
 
 # Hi! It's me [Nielioo](https://www.linkedin.com/in/daniel-aprillio/), nice to meet ya!
 
-  <img src="https://play.pokemonshowdown.com/sprites/ani/zorua.gif"/>
-  <img src="https://play.pokemonshowdown.com/sprites/ani/riolu.gif"/>
-  <img src="https://play.pokemonshowdown.com/sprites/ani/mew.gif"/>
-  <img src="https://play.pokemonshowdown.com/sprites/ani/pichu.gif"/>
-  <img src="https://play.pokemonshowdown.com/sprites/ani/shinx.gif"/>
-  <img src="https://play.pokemonshowdown.com/sprites/ani/ralts.gif"/>
-  <img src="https://play.pokemonshowdown.com/sprites/ani/togepi.gif"/>
-  <img src="https://play.pokemonshowdown.com/sprites/ani/rockruff.gif"/>
-  <img src="https://play.pokemonshowdown.com/sprites/ani/mimikyu.gif"/>
-  <img src="https://play.pokemonshowdown.com/sprites/ani/zorua-hisui.gif"/>
-  </br>
-
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-aprillio/)
 [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/551736880014819329)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Nielioo)
@@ -36,6 +24,17 @@
 [![Top Langs-Light](https://custom-github-readme-stats.vercel.app/api/top-langs/?username=nielioo&layout=compact&theme=buefy&bg_color=00000000&hide=jupyter%20notebook#gh-light-mode-only)](https://github.com/Nielioo#gh-light-mode-only)
 [![GitHub stats-Dark](https://custom-github-readme-stats.vercel.app/api?username=nielioo&show_icons=true&theme=slateorange&bg_color=00000000&hide_title=true#gh-dark-mode-only)](https://github.com/Nielioo#gh-dark-mode-only)
 [![GitHub stats-Light](https://custom-github-readme-stats.vercel.app/api?username=nielioo&show_icons=true&theme=buefy&bg_color=00000000&hide_title=true#gh-light-mode-only)](https://github.com/Nielioo#gh-light-mode-only)
+
+  <img src="https://play.pokemonshowdown.com/sprites/ani/zorua.gif"/>
+  <img src="https://play.pokemonshowdown.com/sprites/ani/riolu.gif"/>
+  <img src="https://play.pokemonshowdown.com/sprites/ani/mew.gif"/>
+  <img src="https://play.pokemonshowdown.com/sprites/ani/pichu.gif"/>
+  <img src="https://play.pokemonshowdown.com/sprites/ani/shinx.gif"/>
+  <img src="https://play.pokemonshowdown.com/sprites/ani/ralts.gif"/>
+  <img src="https://play.pokemonshowdown.com/sprites/ani/togepi.gif"/>
+  <img src="https://play.pokemonshowdown.com/sprites/ani/rockruff.gif"/>
+  <img src="https://play.pokemonshowdown.com/sprites/ani/mimikyu.gif"/>
+  <img src="https://play.pokemonshowdown.com/sprites/ani/zorua-hisui.gif"/>
 
 </div>
 <br/>

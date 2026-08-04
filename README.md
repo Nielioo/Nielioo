@@ -2,10 +2,21 @@
 <div align="center">
   <!-- https://play.pokemonshowdown.com/sprites/ani/ -->
   <!-- <img src="https://github.com/Nielioo/Nielioo/blob/main/assets/pokemon/zorua.gif"/> -->
+  <img src="https://play.pokemonshowdown.com/sprites/ani/leafeon.gif"/>
+  <img src="https://play.pokemonshowdown.com/sprites/ani/jolteon.gif"/>
+  <img src="https://play.pokemonshowdown.com/sprites/ani/espeon.gif"/>
+  <img src="https://play.pokemonshowdown.com/sprites/ani/flareon.gif"/>
+  <img src="https://play.pokemonshowdown.com/sprites/ani/eevee.gif"/>
+  <img src="https://play.pokemonshowdown.com/sprites/ani/glaceon.gif"/>
+  <img src="https://play.pokemonshowdown.com/sprites/ani/sylveon.gif"/>
+  <img src="https://play.pokemonshowdown.com/sprites/ani/umbreon.gif"/>
+  <img src="https://play.pokemonshowdown.com/sprites/ani/vaporeon.gif"/>
+
+# Hi! It's me [Nielioo](https://www.linkedin.com/in/daniel-aprillio/), nice to meet ya!
+
   <img src="https://play.pokemonshowdown.com/sprites/ani/zorua.gif"/>
   <img src="https://play.pokemonshowdown.com/sprites/ani/riolu.gif"/>
   <img src="https://play.pokemonshowdown.com/sprites/ani/mew.gif"/>
-  <img src="https://play.pokemonshowdown.com/sprites/ani/eevee.gif"/>
   <img src="https://play.pokemonshowdown.com/sprites/ani/pichu.gif"/>
   <img src="https://play.pokemonshowdown.com/sprites/ani/shinx.gif"/>
   <img src="https://play.pokemonshowdown.com/sprites/ani/ralts.gif"/>
@@ -13,8 +24,7 @@
   <img src="https://play.pokemonshowdown.com/sprites/ani/rockruff.gif"/>
   <img src="https://play.pokemonshowdown.com/sprites/ani/mimikyu.gif"/>
   <img src="https://play.pokemonshowdown.com/sprites/ani/zorua-hisui.gif"/>
-
-# Hi! It's me [Nielioo](https://www.linkedin.com/in/daniel-aprillio/), nice to meet ya!
+  </br>
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-aprillio/)
 [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/551736880014819329)

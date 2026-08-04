@@ -1,11 +1,18 @@
 
 <div align="center">
-  <img src="https://github.com/Nielioo/Nielioo/blob/main/Assets/Raw/XinyanCheer.gif" width="12%"/>
-  <img src="https://github.com/Nielioo/Nielioo/blob/main/Assets/Raw/XinyanGuitar.gif" width="12%"/>
-  <img src="https://github.com/Nielioo/Nielioo/blob/main/Assets/Raw/XinyanCheer.gif" width="12%"/>
-  <img src="https://github.com/Nielioo/Nielioo/blob/main/Assets/Raw/XinyanGuitar.gif" width="12%"/>
-  <img src="https://github.com/Nielioo/Nielioo/blob/main/Assets/Raw/XinyanCheer.gif" width="12%"/>
-  <img src="https://github.com/Nielioo/Nielioo/blob/main/Assets/Raw/XinyanGuitar.gif" width="12%"/>
+  <!-- https://play.pokemonshowdown.com/sprites/ani/ -->
+  <!-- <img src="https://github.com/Nielioo/Nielioo/blob/main/assets/pokemon/zorua.gif"/> -->
+  <img src="https://play.pokemonshowdown.com/sprites/ani/zorua.gif"/>
+  <img src="https://play.pokemonshowdown.com/sprites/ani/zorua-hisui.gif"/>
+  <img src="https://play.pokemonshowdown.com/sprites/ani/riolu.gif"/>
+  <img src="https://play.pokemonshowdown.com/sprites/ani/mew.gif"/>
+  <img src="https://play.pokemonshowdown.com/sprites/ani/eevee.gif"/>
+  <img src="https://play.pokemonshowdown.com/sprites/ani/pichu.gif"/>
+  <img src="https://play.pokemonshowdown.com/sprites/ani/shinx.gif"/>
+  <img src="https://play.pokemonshowdown.com/sprites/ani/ralts.gif"/>
+  <img src="https://play.pokemonshowdown.com/sprites/ani/togepi.gif"/>
+  <img src="https://play.pokemonshowdown.com/sprites/ani/rockruff.gif"/>
+  <img src="https://play.pokemonshowdown.com/sprites/ani/mimikyu.gif"/>
 
 # Hi! It's me [Nielioo](https://www.linkedin.com/in/daniel-aprillio/), nice to meet ya!
 
